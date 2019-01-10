@@ -51,6 +51,7 @@ class SignaturePainter extends CustomPainter {
 
   SignaturePainter(this.points);
 
+
   @override
   void paint(Canvas canvas, Size size) {
     var paint = Paint()
